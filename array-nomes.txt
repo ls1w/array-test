@@ -1,0 +1,13 @@
+let nomes = [
+    "Marie Curie",
+    "Albert Einstein",
+    "Ada Lovelace",
+    "Charles Darwin",
+    "Margaret Hamilton",
+    "Stephen Hawking",
+    "Katherine Johnson",
+    "Nikola Tesla",
+    "Mary Jackson",
+    "Isaac Newton",
+    "Dorothy Vaughan",
+];
